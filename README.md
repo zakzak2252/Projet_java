@@ -1,4 +1,5 @@
 # APPLICATION-JAVA
+echo " " >> README.md
 
 Dans le cadre de mon Projet en Java, j'ai mis en oeuvre une application client-serveur qui réalise les interactions suivantes 
 - Transfert des fichiers (Serveur.java / Pub.java).
