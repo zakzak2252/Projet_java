@@ -1,0 +1,6 @@
+# .gitignore
+*.class
+*.log
+bin/
+target/
+*.tmp
